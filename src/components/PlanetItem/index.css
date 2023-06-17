@@ -1,0 +1,12 @@
+.cardItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  list-style-type: none;
+}
+p {
+  width: 60%;
+  text-align: center;
+}
